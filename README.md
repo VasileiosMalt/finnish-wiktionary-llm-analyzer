@@ -1,6 +1,8 @@
 # Finnish Wiktionary + LLM Verb Analyzer
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VasileiosMalt/finnish-wiktionary-llm-analyzer/refs/heads/main/fw_icon.png" width="300">
+</p>
 
 ## Overview
 
