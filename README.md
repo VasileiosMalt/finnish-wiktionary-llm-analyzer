@@ -36,4 +36,4 @@ For questions or feedback, please use the [Chrome Web Store support page](https:
 
 ---
 
-*This repository is for documentation and support only. The source code is not published here.*
+*This repository is for documentation and support only.*
