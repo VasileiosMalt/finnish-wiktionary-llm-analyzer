@@ -18,7 +18,7 @@
 
 ## Installation
 
-Get the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id).
+Get the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/finnish-wiktionary-+-llm/febiphimcjnalbijoknboacgijgbocba).
 
 ## Privacy
 
@@ -31,10 +31,6 @@ Get the extension from the [Chrome Web Store](https://chrome.google.com/webstore
 - **contextMenus**: For right-click analysis of selected text
 - **storage**: To save user preferences and API keys
 - **Host permissions**: To access Wiktionary and supported AI APIs
-
-## Support
-
-For questions or feedback, please use the [Chrome Web Store support page](https://chrome.google.com/webstore/detail/your-extension-id/support).
 
 ---
 
